@@ -88,7 +88,7 @@ public class StoryActivity extends AppCompatActivity {
                 }
             });
 
-            mChoice2.setVisibility(View.INVISIBLE);
+            mChoice2.setVisibility(View.GONE);
         }
     }
 }
